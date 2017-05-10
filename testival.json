@@ -1,0 +1,123 @@
+{
+  "beginTime": {
+    "year": 2016,
+    "month": 1,
+    "dayOfMonth": 21,
+    "hourOfDay": 12,
+    "minute": 0,
+    "second": 0
+  },
+  "endTime": {
+    "year": 2016,
+    "month": 1,
+    "dayOfMonth": 21,
+    "hourOfDay": 21,
+    "minute": 0,
+    "second": 0
+  },
+  "price": 50.0,
+  "maxVisitors": 1500,
+  "expectedVisitors": 998,
+  "name": "DefCon",
+  "description": "Mals Hardcore Festival",
+  "stages": [
+    {
+      "name": "Main Stage",
+      "location": "FROND",
+      "shows": [
+        {
+          "name": "Dikke wauzigheid",
+          "beginTime": {
+            "year": 2016,
+            "month": 1,
+            "dayOfMonth": 21,
+            "hourOfDay": 15,
+            "minute": 0,
+            "second": 0
+          },
+          "endTime": {
+            "year": 2016,
+            "month": 1,
+            "dayOfMonth": 21,
+            "hourOfDay": 17,
+            "minute": 0,
+            "second": 0
+          },
+          "artist": {
+            "name": "Yorick S",
+            "genre": "Ambient",
+            "description": "Matige show"
+          },
+          "rating": 100.0
+        }
+      ]
+    },
+    {
+      "name": "Left Stage",
+      "location": "LEFT",
+      "shows": [
+        {
+          "name": "Stampeee",
+          "beginTime": {
+            "year": 2016,
+            "month": 1,
+            "dayOfMonth": 21,
+            "hourOfDay": 13,
+            "minute": 0,
+            "second": 0
+          },
+          "endTime": {
+            "year": 2016,
+            "month": 1,
+            "dayOfMonth": 21,
+            "hourOfDay": 14,
+            "minute": 0,
+            "second": 0
+          },
+          "artist": {
+            "name": "Nickert",
+            "genre": "Frenchcore",
+            "description": "nog meer matige show"
+          },
+          "rating": 90.0
+        }
+      ]
+    },
+    {
+      "name": "Right Stage",
+      "location": "RIGHT",
+      "shows": [
+        {
+          "name": "Dikke wauzigheid",
+          "beginTime": {
+            "year": 2016,
+            "month": 1,
+            "dayOfMonth": 21,
+            "hourOfDay": 14,
+            "minute": 0,
+            "second": 0
+          },
+          "endTime": {
+            "year": 2016,
+            "month": 1,
+            "dayOfMonth": 21,
+            "hourOfDay": 15,
+            "minute": 0,
+            "second": 0
+          },
+          "artist": {
+            "name": "Yorick S",
+            "genre": "Ambient",
+            "description": "Matige show"
+          },
+          "rating": 100.0
+        }
+      ]
+    },
+    {
+      "name": "GJRNWFW Stage",
+      "location": "RIGHT",
+      "shows": []
+    }
+  ]
+}
